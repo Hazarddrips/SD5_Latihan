@@ -1,3 +1,5 @@
+// Haidar Zakki Jumali 514 ; 
+// Perubahan pada postOrder and preOrder
 public class BinaryTree {
     public Node root;
 
